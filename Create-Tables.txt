@@ -52,4 +52,4 @@ VALUES
 INSERT INTO Books (BookID, Title, Genre, Price, AuthorID)
 VALUES
 (101, '1984', 'Dystopian', 15.99, 1),
-(102, 'Pride and Prejudice', 'Romance', 12.50, 2);
+(102, 'Pride and Prejudice', 'Romance', 12.50, 2);-- Added new modifications
